@@ -4,8 +4,8 @@ export default class App extends Component {
   render() {
     return (
       <div className='app'>
-        <h1>RAE Website</h1>
-        <h2>React Redux</h2>
+        <h1>Right Angle Engineering</h1>
+        <h2>Engineering for future</h2>
       </div> 
     );
   }
